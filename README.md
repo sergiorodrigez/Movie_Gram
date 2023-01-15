@@ -1,6 +1,8 @@
 # MovieGram
 Java application for movies
 
+![moviegram](https://user-images.githubusercontent.com/97603106/212559649-1992ce0a-bd8e-44d4-97ea-e321c36231f4.jpg)
+
 <img width="663" alt="image" src="https://user-images.githubusercontent.com/97603106/210180601-90614019-5b89-465e-bd10-6aa14f7919d1.png">
 
 <img width="664" alt="image" src="https://user-images.githubusercontent.com/97603106/210180623-de3d0b94-71be-4a74-b5f6-823642ec35c1.png">
