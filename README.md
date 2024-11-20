@@ -1,5 +1,6 @@
 # MovieGram
-Java application for movies
+
+Movies social media app, using Java interface, group project.
 
 ![moviegram](https://user-images.githubusercontent.com/97603106/212559649-1992ce0a-bd8e-44d4-97ea-e321c36231f4.jpg)
 
